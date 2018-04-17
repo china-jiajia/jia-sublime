@@ -1,0 +1,42 @@
+
+
+1.设置pycharm当中的;python file的templates
+	PyCharm-------->Preferences--------->搜索(file and Coding templates)------------>选择Python Script(输入如下内容)
+
+#!/usr/bin/env python 
+# -*- coding: utf-8 -*-
+
+
+
+2.control + tab 		#切换导航
+
+
+3.control + n 			#新建文件
+
+4.tab(使用缩进) 		shift + tab(取消缩进)
+
+5.shift + enter 		#切换新的一行进行编辑
+
+6. cmd + [ / ] 			#前后移动光标
+
+7.option + F1 			#显示文件所在当前位置
+
+8.cmd + c 				#复制当前行
+
+9.cmd + / 				#注释
+
+10.cmd + backspace 	#删除当前行
+
+11.cmd + d 			#在下一行复制当前行的内容
+
+12.shift + cmd + 	#展示所有
+
+13.shift + cmd - 	#折叠所有行
+
+
+14.Python自带Shell
+
+	options(ALt) + N 	#上一句命令
+	control(Ctrl) + N 	#新建一个py文件
+	F5 					#运行当前的py文件
+	control(Ctrl) + C 	#强制停止
