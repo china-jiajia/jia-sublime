@@ -8,7 +8,7 @@
 
 
 
-2.control + tab 		#切换导航
+2.control + tab 		#切换导航(切换当前标签页)
 
 
 3.control + n 			#新建文件
@@ -40,3 +40,18 @@
 	control(Ctrl) + N 	#新建一个py文件
 	F5 					#运行当前的py文件
 	control(Ctrl) + C 	#强制停止
+
+15.shift + esc 			#隐藏左边停靠栏
+
+16.shift + shift  		#打开文件搜索
+
+17.Esc    				#从工具窗口回到编辑窗口
+
+19.fn+F12 				#回到先前的工具窗口(恢复左边停靠栏)
+
+20.cmd(Ctrl) + E 		#当前文件弹出
+
+21.cmd(Ctrl)+optin(Alt)+Left/Right 		#标签左右切换
+
+22.cmd(Ctrl) + option(Alt) + L     		#代码格式化
+
